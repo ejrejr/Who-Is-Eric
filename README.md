@@ -7,13 +7,25 @@ A README file for those who work with Eric
 
 What is This?
 ====
-Details to come.
+Just a way for me to share what I think my be useful for someone starting to work with me.
 
 About Eric
 ====
-What are the important things I think you should know about me?
+What are the things I think you should know about me?
 
-Details to come.
+I fell in love with software in high school, dropping that future artist career in a heartbeat. I taught myself a lot and then learned a lot in school and during my first job at a crazy start-up. I was fortunate to study UI design and implementation during my masters, and combined my two passions of UI and compiler theory in my thesis.
+
+I grew up an Army Brat and have lived in the Pacific Northwest since 1992. I moved out to work at Intel Supercomputers on their graphical tools for developers and then moved on to Microsoft, where I had several careers within Office, Windows, and HoloLens. I took a sabbatical (highly recommended) and looked for a job with personal meaning. For that, I can't imagine anything better than Axon and the mission that drives the company.
+
+I lived through some horrible stuff and some wonderful stuff. We all have our stories. I'm a husband and a Dad and my family is my top priority.
+
+I've been product leading and managing since the start of this century. I've had great people to learn from and interesting training.
+
+I've been accused of being a nice guy. Over and over again.
+
+I read a lot of books on Stoicism and strive to follow those lessons.
+
+Keep reading if this is the least bit helpful.
 
 Social Media
 ---
@@ -40,6 +52,10 @@ What do I believe?
 
 What are my triggers?
 
+* Not taking responsibility.
+* Not sharing bad news.
+* Over-representing yourself.
+
 One-on-Ones
 ====
 
@@ -51,7 +67,7 @@ If there's a day we're scheduled and you just don't have anything to talk about 
 
 Communication With Me and Feedback to Me
 ===
-I love feedback. I love information. Even if it's bad news. That's just a challenge to handle. And as I'll often repeat (sorry): bad news doesn't get better with age.
+I love feedback. I love information. Especially it's bad news. That's just a challenge to handle. And as I'll often repeat (sorry): bad news doesn't get better with age.
 
 We have a shared one-on-one document for you to add any status you like, including information to talk about during our one-on-one. You can also Slack me anything or email me interesting progress or things you're working on. I'll assume that you're informing me and not needing action from me unless you specifically need my voice to be part of the conversation. I'll do my best to always acknowledge anything you send my way so that you know I got it and read it.
 
@@ -74,7 +90,7 @@ At the end of the day, we work for results. We're also a team. Late-night hacker
 
 I'll give you heads up on vacations and I'll need you to do the same. When you're out for more than three days I need to know who's directly responsible for covering your area. That needs to be clear to the team as well.
 
-I work from home occassionally when I have an inconvenient appointment or work being done on the house etc. Also when I have to be huddled down doing some manager work like writing assessments. Let people know upfront when you can about WFH and please do you best to respond to inquiries.
+I work from home occassionally when I have a local appointment or work being done on the house etc. Also when I have to be huddled down doing some manager work like writing assessments. Let people know upfront when you can about WFH and please do you best to respond to inquiries. We need ad-hoc collaboration. WFH can happen on occasion by need but should not become a habit.
 
 Extra Stuff
 ===
