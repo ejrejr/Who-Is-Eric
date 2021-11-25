@@ -90,8 +90,6 @@ At the end of the day, we work for results. We're also a team. Late-night hacker
 
 I'll give you heads up on vacations and I'll need you to do the same. When you're out for more than three days I need to know who's directly responsible for covering your area. That needs to be clear to the team as well.
 
-I work from home occassionally when I have a local appointment or work being done on the house etc. Also when I have to be huddled down doing some manager work like writing assessments. Let people know upfront when you can about WFH and please do you best to respond to inquiries. We need ad-hoc collaboration. WFH can happen on occasion by need but should not become a habit.
-
 Extra Stuff
 ===
 
