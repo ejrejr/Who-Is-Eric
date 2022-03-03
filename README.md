@@ -1,7 +1,18 @@
 # Who-Is-Eric
 A README file for those who work with Eric
 
-(Draft)
+This is now a historical document - I wrote this to have available to anyone I worked with. I did not actively share this so, honestly, I don't know how many of my reports ever read this. I hope any that did found it useful. As of 2 Feb 2022 I am retired and have taken the title of Technorati of Leisure. 
+
+This whole personal README was maybe a phase. Consider if something asynchronous like this would be useful for you to share with your peers and coworkers.
+
+Cheers.
+
+Eric
+
+README
+===
+
+
 
 **Congratulations**, we get to work together! ;-) Let me tell you somethings about working with me.
 
